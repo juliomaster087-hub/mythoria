@@ -36,3 +36,15 @@ Para builds automáticos, conecte este repositório ao Cloudflare Workers Builds
 4. Adicionar moderação, privacidade e proteção de conteúdo.
 
 Feito com imaginação. ✧
+
+
+## Estúdio de escrita e capítulos
+
+A versão atual inclui um estúdio de escrita no próprio site:
+- criação de histórias com título, autor, gênero e sinopse;
+- biblioteca pessoal de obras;
+- criação, edição, exclusão e reordenação de capítulos;
+- editor com contagem de palavras e salvamento automático;
+- prévia de leitura da obra completa.
+
+**Persistência nesta versão:** os dados ficam no armazenamento local do navegador (localStorage). Limpar os dados do navegador pode apagar os rascunhos. Ainda não há contas, banco de dados remoto, sincronização entre dispositivos ou publicação pública de obras. Essas funções exigem a próxima etapa de backend e autenticação.
