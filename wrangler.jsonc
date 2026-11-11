@@ -1,0 +1,6 @@
+{
+  "$schema": "node_modules/wrangler/config-schema.json",
+  "name": "mythoria",
+  "compatibility_date": "2026-11-11",
+  "assets": { "directory": "./", "not_found_handling": "404-page" }
+}
